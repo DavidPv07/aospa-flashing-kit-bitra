@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Flash AOSPA fastboot zip on marble
+# Flash AOSPA fastboot zip on bitra
 # Author: Adithya R (@ghostrider_reborn)
 
 function wait_exit() {
