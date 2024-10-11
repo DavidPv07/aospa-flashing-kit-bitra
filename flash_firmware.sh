@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # Flash firmware zip arsalan devuploads.com
-# (https://devuploads.com/users/arsalan_zeus/7883/GLOBAL) on bitra
+# (https://devuploads.com/users/arsalan_zeus/2797/IN) on bitra
 #
 # Author: Adithya R (@ghostrider_reborn)
 
